@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-# stop a process
-kill -9 13 
+#kill process
+kill %-
