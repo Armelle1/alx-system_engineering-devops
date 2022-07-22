@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 #kill
-kill -l INT $!
+kill $(ps aux | grep 7-highlander)
